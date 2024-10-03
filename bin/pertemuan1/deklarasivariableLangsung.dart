@@ -3,4 +3,5 @@ void main(){
 
   print(nama);
   print(nama);
+  print(nama);
 }
