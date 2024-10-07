@@ -23,8 +23,6 @@
 //     print('nilai kamu = C');
 //   }else if(nilaiTugas >= 50 && nilaiAbsen >= 50){
 //     print('nilai kamu = D');
-//   }else if(nilaiTugas >= 40 && nilaiAbsen >= 40){
-//     print('nilai kamu = D');
 //   }else{
 //     print('nilai kamu = E');
 //   }
