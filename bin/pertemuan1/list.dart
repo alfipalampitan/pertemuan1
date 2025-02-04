@@ -34,16 +34,16 @@
 // }
 
 //CARA MEMBUAT LIST DENGAN DEKLARASI SECARA LANGSUNG
-// void main(){
-//   var namaOrang = ['alfi', 'budi', 'didi'];
-//   var umurOrang = <int>[18, 28, 19];
-//   var nilaiOrang = [
-//     90,
-//     80,
-//     87
-//   ];
+void main(){
+  var namaOrang = ['alfi', 'budi', 'didi'];
+  var umurOrang = <int>[18, 28, 19];
+  var nilaiOrang = [
+    90,
+    80,
+    87
+  ];
 
-//   print(namaOrang);
-//   print(umurOrang);
-//   print(nilaiOrang);
-// }
+  print(namaOrang);
+  print(umurOrang);
+  print(nilaiOrang);
+}
